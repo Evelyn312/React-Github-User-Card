@@ -1,0 +1,29 @@
+.mainCont {
+    width: 500px;
+    background-color: pink;
+    margin: 0 auto;
+}
+.mainCont div {
+    text-align: center;
+}
+.maincont img {
+    width: 300px;
+    border: 1px solid black;
+
+}
+
+.followWrapper {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.followerCont {
+    width: 25%;
+}
+
+
+.followerCont img {
+    width: 100%;
+    border: 1px solid blue;
+    
+}
